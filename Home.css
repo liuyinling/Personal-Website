@@ -5,25 +5,27 @@
 .u-section-1 .u-image-1 {
   width: 187px;
   height: 223px;
-  margin: 15px auto 0 78px;
+  margin: 0 auto 0 72px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: normal;
-  margin: -206px 283px 0 auto;
+  margin: -191px 283px 0 auto;
 }
 
 .u-section-1 .u-text-2 {
+  font-size: 1rem;
   margin: 21px 0 0 415px;
 }
 
 .u-section-1 .u-text-3 {
-  margin: -332px auto 0 22px;
+  font-size: 3rem;
+  margin: -207px auto 0 59px;
 }
 
 .u-section-1 .u-text-4 {
   font-weight: 700;
-  margin: 0 802px 0 45px;
+  margin: 8px 822px 0 25px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -41,7 +43,7 @@
   min-height: 16px;
   width: 200px;
   min-width: 120px;
-  margin: 12px auto 0 92px;
+  margin: 4px auto 0 72px;
 }
 
 .u-section-1 .u-icon-1 {
@@ -70,39 +72,40 @@
 
 .u-section-1 .u-text-5 {
   font-weight: 700;
-  margin: 178px 792px 0 54px;
+  margin: 153px 822px 0 24px;
 }
 
 .u-section-1 .u-text-6 {
-  margin: 12px 45px 0;
+  margin: 6px 65px 0 25px;
 }
 
 .u-section-1 .u-text-7 {
   font-weight: 700;
   text-align: justify;
-  margin: 20px 714px 0 54px;
+  margin: 21px 747px 0 21px;
 }
 
 .u-section-1 .u-text-8 {
   font-weight: 400;
-  margin: 30px 38px 60px 54px;
+  margin: 11px 68px 60px 24px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-image-1 {
-    margin-top: 834px;
+    margin-top: 747px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: -163px;
+    margin-top: -250px;
     margin-left: 215px;
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: -154px;
+    margin-top: -67px;
   }
 
   .u-section-1 .u-text-4 {
+    margin-top: 46px;
     margin-right: 647px;
     margin-left: 0;
   }
@@ -169,7 +172,7 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: -346px;
+    margin-top: -259px;
   }
 
   .u-section-1 .u-text-4 {
@@ -196,10 +199,11 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-image-1 {
-    margin-top: 15px;
+    margin-top: 278px;
   }
 
   .u-section-1 .u-text-1 {
+    margin-top: -278px;
     margin-right: 103px;
   }
 
@@ -212,6 +216,7 @@
   }
 
   .u-section-1 .u-text-4 {
+    margin-top: 133px;
     margin-right: 47px;
   }
 
